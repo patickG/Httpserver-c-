@@ -1,0 +1,12 @@
+#pragma once
+
+#include<iostream>
+#include"TcpServer.hpp"
+
+class HttpServer
+{
+  private:
+    int port;
+    TcpServer* 1
+
+};
